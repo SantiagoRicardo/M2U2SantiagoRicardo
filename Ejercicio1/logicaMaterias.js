@@ -3,7 +3,7 @@ let materias = document.getElementById('materias');
 const 
     boton  = document.getElementById('boton'),
     div    = document.getElementById('inputsGenerados'), 
-    div2   = document.getElementById('inputValorMaterias'),
+    div2   = document.getElementById('inputsValorMaterias'),
     div3   = document.getElementById('resultSuma')
  
 boton.addEventListener('click', () => {
